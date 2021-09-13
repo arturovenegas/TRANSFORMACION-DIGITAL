@@ -1,0 +1,16 @@
+.texto{
+    font-weight: bold;
+    margin-bottom: -3px;
+}
+
+.targeta{
+    margin-top: 3px;
+}
+
+a{
+    cursor: pointer;
+}
+
+.container-fluid{
+    min-height: 91.2vh;
+  }
